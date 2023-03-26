@@ -42,7 +42,8 @@ To run the unit tests using ```unittest```, run the following command in the pro
 python3 -m unittest discover -v
 ```
 
-To run a test manually, you can send a JSON payload as part of a POST request. 
+To run a test manually, you can send a JSON payload as part of a POST request.
+
 For example
 
 ```
