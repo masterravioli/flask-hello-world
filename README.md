@@ -41,3 +41,9 @@ To run the unit tests using ```unittest```, run the following command in the pro
 ```
 python -m unittest discover -v
 ```
+
+To run a test manually, you can send a JSON payload as part of a POST request. For example:
+
+```
+curl -X POST http://localhost:5000/check_number -H "Content-Type: application/json" -d '{"integer": 50}'
+```
