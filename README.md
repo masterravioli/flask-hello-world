@@ -34,9 +34,9 @@ python3 app.py
 
 ## Running Tests
 
-This project includes unit tests and regression tests for the ```/check_number``` endpoint using the 'unittest' module.
+This project includes unit tests and regression tests for the ```/check_number``` endpoint using the ```unittest``` module.
 
-To run the unit tests using 'unittest', run the following command in the project directory:
+To run the unit tests using ```unittest```, run the following command in the project directory:
 
 ```
 python -m unittest discover -v
