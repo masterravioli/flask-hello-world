@@ -2,7 +2,7 @@
 
 This is a simple Flask application that demonstrates the basic structure of a web application and includes an endpoint that takes an integer value and returns a JSON response with the value "high" or "low" depending on whether the integer is greater than 100.
 
-## Getting Started
+## Usage
 
 To run this application on your local machine, you will need to have Python 3 and Flask installed.
 
@@ -34,7 +34,7 @@ python3 app.py
 
 ## Running Tests
 
-This project includes unit tests and regression tests for the '/check_number' endpoint using the 'unittest' module.
+This project includes unit tests and regression tests for the ```/check_number``` endpoint using the 'unittest' module.
 
 To run the unit tests using 'unittest', run the following command in the project directory:
 
