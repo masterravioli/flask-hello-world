@@ -31,3 +31,13 @@ python3 app.py
 ```
 
 5. Open a web browser and navigate to http://localhost:5000/ to see the "Hello World" message, or send a POST request to http://localhost:5000/check_number with a payload containing an integer value to test the /check_number endpoint.
+
+## Running Tests
+
+This project includes unit tests and regression tests for the '/check_number' endpoint using the 'unittest' module.
+
+To run the unit tests using 'unittest', run the following command in the project directory:
+
+```
+python -m unittest discover -v
+```
