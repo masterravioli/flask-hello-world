@@ -21,13 +21,13 @@ cd flask-hello-world
 3. Install the required dependencies using pip3:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 4. Start the Flask development server:
 
 ```
-python app.py
+python3 app.py
 ```
 
 5. Open a web browser and navigate to http://localhost:5000/ to see the "Hello World" message, or send a POST request to http://localhost:5000/check_number with a payload containing an integer value to test the /check_number endpoint.
