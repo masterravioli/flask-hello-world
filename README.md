@@ -39,7 +39,7 @@ This project includes unit tests and regression tests for the ```/check_number``
 To run the unit tests using ```unittest```, run the following command in the project directory:
 
 ```
-python -m unittest discover -v
+python3 -m unittest discover -v
 ```
 
 To run a test manually, you can send a JSON payload as part of a POST request. 
