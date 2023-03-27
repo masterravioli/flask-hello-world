@@ -9,7 +9,7 @@ To run this application on your local machine, you will need to have Python 3 an
 1. Clone this repository to your local machine using the following command
 
 ```
-git clone https://github.com/your-username/flask-hello-world.git
+git clone https://github.com/masterravioli/flask-hello-world.git
 ```
 
 2. Navigate to the project directory
