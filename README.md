@@ -18,19 +18,13 @@ git clone https://github.com/masterravioli/flask-hello-world.git
 cd flask-hello-world
 ```
 
-3. Install the required dependencies using pip3
-
-```
-pip3 install -r requirements.txt
-```
-
-4. Start the Flask development server
+3. Start the Flask development server
 
 ```
 python3 app.py
 ```
 
-5. Open a web browser and navigate to http://localhost:5000/ to see the "Hello World" message, or send a POST request to http://localhost:5000/check_number with a payload containing an integer value to test the /check_number endpoint.
+4. Open a web browser and navigate to http://localhost:5000/ to see the "Hello World" message, or send a POST request to http://localhost:5000/check_number with a payload containing an integer value to test the /check_number endpoint.
 
 ## Running Tests
 
